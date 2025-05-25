@@ -1,0 +1,6 @@
+{
+  "name": "Word Scramble Game",
+  "description": "A fun word game where you unscramble six letters to form a word within four attempts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
